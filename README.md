@@ -6,5 +6,7 @@ Established by students from Hainan Middle School.
 
 Website created and maintained by Dxir
 
+Dxir
+
 > This resource is a group program.  
 > View: [SeaWindTales](https://seawindtales.top)
