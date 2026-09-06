@@ -1124,6 +1124,14 @@
 <script src="js/particles.min.js"></script>
 
 
+<script>
+if (!document.getElementById('order-chart')) {
+  Morris.Donut = function () { return { options: { colors: [] }, redraw: function () {} }; };
+  Morris.Bar = function () { return { options: { barColors: [] }, redraw: function () {} }; };
+}
+</script>
+
+
 <script type="text/javascript" src="js/custom.min.js"></script>
 
 
